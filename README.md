@@ -1,3 +1,10 @@
+# 钻石切割机资料
+
+- 组装与出口实务手册：本页下面就是全文，PDF 文件名为 `manual.pdf`
+- 强弱电入门：见 [强弱电入门.md](./强弱电入门.md)，PDF 为 [qiangruodian-basics.pdf](./qiangruodian-basics.pdf)
+
+---
+
 # 钻石切割机 设备组装与出口实务手册
 要不要掌握强弱电、出口英文是什么意思、出货前注意什么
 
